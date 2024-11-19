@@ -2918,109 +2918,11 @@ ${readmore}
 > iosgc
 > xjpmgc
 
-╰┈➤ ʙᴀɴ/ᴜɴʙᴀɴ ᴍᴇɴᴜ
-> banv1
-> banv2
-> banv3
-> banv4
-> banv5
-> banv6
-> unbanv1
-> unbanv2
-> unbanv3
-> unbanv4
-> unbanv5
-
-╰┈➤ ᴏᴡɴᴇʀ ᴍᴇɴᴜ
-> getsession
-> deletesession
-> join
-> shutdown  
-> restart
-> autoread *[option]*
-> autotyping *[option]*
-> autorecording *[option]*
-> autorecordtyp *[option]*
-> autobio *[option]*
-> autoswview *[option]*
-> mode *[option]*
-> block
-> unblock 
-> backup
-> getcase
-> addowner
-> delowner
-
-╰┈➤ ɢʀᴏᴜᴘ ᴍᴇɴᴜ
-> closetime
-> opentime
-> kick
-> add
-> promote
-> demote
-> setdesc
-> setppgc
-> tagall
-> hidetag
-> totag
-> group *[option]*
-> editinfo
-> linkgc
-> revoke
-> listonline
-
-╰┈➤ ᴍᴀɪɴ ᴍᴇɴᴜ
-> menu
-> buypremium
-> runtime
-> script
-> donate
-> owner
-
-╰┈➤ ᴄᴏɴᴠᴇʀᴛ ᴍᴇɴᴜ
-> sticker
-> smeme
-> take
-> toimage
-> tovideo
-> toaudio
-> tomp3
-> tovn
-> togif
-> tourl
-> toqr
-> toviewonce
-> fliptext
-> emojimix
-
-╰┈➤ ᴅᴀᴛᴀʙᴀsᴇ ᴍᴇɴᴜ
-> addvideo
-> addimage
-> addsticker
-> addvn
-> addzip
-> addapk
-> addpdf
-> delvideo
-> delimage
-> delsticker
-> delvn
-> delzip
-> delapk
-> delpdf
-> listvideo
-> listimage
-> liststicker
-> listvn
-> listzip
-> listapk
-> listpdf
-
 ╰┈➤ ᴅᴏᴡɴ ᴍᴇɴᴜ
-> play
+> by rulerjzlien
 > ytmp3
 > ytmp4
-> sound1 - sound161`
+> sound1 - sound161`			
 if (typemenu === 'v1') {
                     GlobalTechInc.sendMessage(m.chat, {
                         text: xeonmenuoh,
